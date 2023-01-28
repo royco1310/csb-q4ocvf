@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://royco1310.github.io/csb-q4ocvf/static/css/main.088ec0a0.chunk.css",
+    "main.js": "https://royco1310.github.io/csb-q4ocvf/static/js/main.6c7df862.chunk.js",
+    "main.js.map": "https://royco1310.github.io/csb-q4ocvf/static/js/main.6c7df862.chunk.js.map",
+    "runtime-main.js": "https://royco1310.github.io/csb-q4ocvf/static/js/runtime-main.5e6292d6.js",
+    "runtime-main.js.map": "https://royco1310.github.io/csb-q4ocvf/static/js/runtime-main.5e6292d6.js.map",
+    "static/js/2.14b19094.chunk.js": "https://royco1310.github.io/csb-q4ocvf/static/js/2.14b19094.chunk.js",
+    "static/js/2.14b19094.chunk.js.map": "https://royco1310.github.io/csb-q4ocvf/static/js/2.14b19094.chunk.js.map",
+    "index.html": "https://royco1310.github.io/csb-q4ocvf/index.html",
+    "static/css/main.088ec0a0.chunk.css.map": "https://royco1310.github.io/csb-q4ocvf/static/css/main.088ec0a0.chunk.css.map",
+    "static/js/2.14b19094.chunk.js.LICENSE.txt": "https://royco1310.github.io/csb-q4ocvf/static/js/2.14b19094.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e6292d6.js",
+    "static/js/2.14b19094.chunk.js",
+    "static/css/main.088ec0a0.chunk.css",
+    "static/js/main.6c7df862.chunk.js"
+  ]
+}
